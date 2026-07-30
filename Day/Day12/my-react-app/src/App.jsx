@@ -1,12 +1,10 @@
 import { HelloWorld } from "./components/HelloWorld";
-function App () {
-
-
+function App() {
+  
   return (
-    <div>
-      <Hello World/>
-     </div>
-
+      <div>
+        <HelloWorld />
+      </div>
   )
 }
 
